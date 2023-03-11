@@ -1,1 +1,2 @@
-Now you can sign up!
+Please enter username and password
+Click here if you forgot your password
